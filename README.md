@@ -3,7 +3,7 @@
 Drowsy driving is a major cause of road accidents, but early signs of fatigue can be detected before a critical situation arises. This device is a Driver Drowsiness Detection System which uses face landmark detection and image processing to track eye movements and alert drivers if they start dozing off.
 
 Hardware Tech Stack
-🔹 Raspberry Pi 5 
+- Raspberry Pi 5 
 🔹 Pi Camera
 🔹 Pan/tilt camera mount with 2 servo motors
 🔹 Arduino Nano - controlling servos
